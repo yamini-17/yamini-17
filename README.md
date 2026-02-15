@@ -1,4 +1,4 @@
-# Hi 👋 I'm Yamini Velliyangiri
+# Hi I'm Yamini Velliyangiri
 
 ### Aspiring Data Analyst | SQL | Power BI | Python | Excel  
 📍 India | Open to Data Analyst Opportunities
