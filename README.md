@@ -1,20 +1,84 @@
-<h1 align="center">Hi 👋, I'm YAMINI</h1>
-<h3 align="center">A passionate data analyst from India</h3>
+# Hi 👋 I'm Yamini Velliyangiri
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yamini-17&label=Profile%20views&color=0e75b6&style=flat" alt="yamini-17" /> </p>
+### Aspiring Data Analyst | SQL | Power BI | Python | Excel  
+📍 India | Open to Data Analyst Opportunities
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yamini-17" alt="yamini-17" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>https://www.linkedin.com/in/yamini-v-info/
-<p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yamini v" height="30" width="40" /></a>
-</p>
+## About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I am a Computer Science Engineering student passionate about transforming raw data into meaningful business insights.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yamini-17&show_icons=true&locale=en&layout=compact" alt="yamini-17" /></p>
+I specialize in SQL, Power BI, Python, and Excel, with hands-on experience in building interactive dashboards, performing exploratory data analysis, and developing backend applications using Flask.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yamini-17&show_icons=true&locale=en" alt="yamini-17" /></p>
+I enjoy solving real-world business problems using data-driven approaches and continuously strengthening my analytical and technical skills.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamini-17&" alt="yamini-17" /></p>
+---
+
+## Technical Skills
+
+### Data Analysis
+- SQL (Joins, Aggregations, Subqueries, Filtering)
+- Excel (Pivot Tables, KPI Dashboards)
+- Power BI (DAX, Power Query, Time Intelligence)
+
+### Programming
+- Python (Pandas, NumPy, Data Cleaning, EDA)
+
+### Visualization
+- Power BI
+- Matplotlib
+- Seaborn
+- Tableau
+
+### Backend Exposure
+- Flask (REST APIs)
+- FastAPI (Learning – API Development)
+
+---
+
+## Featured Projects
+
+### Finance Data Analysis – Power BI
+Interactive dashboard analyzing 20,000+ sales records across countries and segments using advanced DAX and time intelligence.
+
+### Order Item Analysis – Python
+Retail sales data analysis using Pandas & Matplotlib to identify revenue trends, top products, and customer purchasing patterns.
+
+### Student Performance Analysis – SQL
+Database analysis using joins and aggregations to evaluate academic performance and attendance trends.
+
+### Employee Hiring Dashboard – Excel
+HR analytics dashboard using Pivot Tables and KPI metrics to analyze recruitment trends and gender distribution.
+
+### Inventory Management System – Flask + React
+Full-stack application to manage products, warehouse locations, and stock movements using REST APIs.
+
+### Brain Tumor Detection – Machine Learning
+Image classification project using Python and deep learning concepts to detect brain tumors from MRI scan images.
+
+### Online Quiz Web Application – Flask
+Role-based authentication quiz platform with admin dashboard, leaderboard, and secure user management.
+
+### CodSoft Internship Projects
+Completed multiple real-world data analysis and Python-based mini projects during virtual internship, focusing on data cleaning, transformation, and visualization.
+
+---
+
+## Current Focus
+
+- Strengthening Advanced SQL  
+- Improving Data Modeling & DAX  
+- Learning FastAPI for backend enhancement  
+
+---
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/yamini-v-info  
+GitHub: https://github.com/yamini-17  
+Email: yaminivelliangiri@gmail.com  
+
+---
+
+⭐ Turning data into decisions.
